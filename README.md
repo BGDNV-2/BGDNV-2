@@ -6,7 +6,7 @@
 
 --- Check some of my music: ---
 - Spotify: https://open.spotify.com/artist/7I9R5hGBKKzE64L3eKNOL9
-- YouTube: https://www.youtube.com/channel/BGDNV
+- YouTube: https://www.youtube.com/BGDNV
 - Instagram: https://www.instagram.com/bgdnvmusic
 <!---
 BGDNV-2/BGDNV-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
