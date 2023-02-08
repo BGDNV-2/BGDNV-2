@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BGDNV-2
 - 👀 The music producer/DJ
 - 🌱 I’m currently learning Java
-- 💞️ Deep House
+- 💞️ Deep House / Tech House / Melodic Techno
 - 📫 info@bgdnv.nl
 
 --- Check some of my music: ---
