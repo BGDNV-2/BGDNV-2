@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BGDNV-2
 - 👀 The music producer/DJ
-- 🌱 I’m currently learning Java
+- 🌱 Java/ C/ Python at Kassel University
 - 💞️ Deep House / Tech House / Melodic Techno
 - 📫 info@bgdnv.nl
 
